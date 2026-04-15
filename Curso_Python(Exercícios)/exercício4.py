@@ -1,3 +1,4 @@
+#Peça para digitar algo e verifique as informações do que foi digitado
 p = input('Digite algo')
 print('O tipo primitivo do que foi digitado é :', type(p))
 print('É um número?: ' , p.isnumeric)
